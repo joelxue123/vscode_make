@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/work/study/g++/makefile+hello.cpp/build",
+  "command": "g++   -g -std=gnu++11 -o CMakeFiles/MyProject.dir/main.cpp.obj -c C:/work/study/g++/makefile+hello.cpp/main.cpp",
+  "file": "C:/work/study/g++/makefile+hello.cpp/main.cpp",
+  "output": "CMakeFiles/MyProject.dir/main.cpp.obj"
+}
+]

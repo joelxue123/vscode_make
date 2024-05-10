@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/work/study/g++/cmake+single_responsibility_principle/build",
+  "command": "C:/MinGW/bin/g++.exe   -g -std=gnu++11 -o CMakeFiles/MyProject.dir/main.cpp.obj -c C:/work/study/g++/cmake+single_responsibility_principle/main.cpp",
+  "file": "C:/work/study/g++/cmake+single_responsibility_principle/main.cpp",
+  "output": "CMakeFiles/MyProject.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/work/study/g++/cmake+single_responsibility_principle/build",
+  "command": "C:/MinGW/bin/g++.exe   -g -std=gnu++11 -o CMakeFiles/MyProject.dir/single_responsibility_principle.cpp.obj -c C:/work/study/g++/cmake+single_responsibility_principle/single_responsibility_principle.cpp",
+  "file": "C:/work/study/g++/cmake+single_responsibility_principle/single_responsibility_principle.cpp",
+  "output": "CMakeFiles/MyProject.dir/single_responsibility_principle.cpp.obj"
+}
+]

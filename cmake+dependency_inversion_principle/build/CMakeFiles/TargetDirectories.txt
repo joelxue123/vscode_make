@@ -1,0 +1,3 @@
+C:/work/study/g++/cmake+dependency_inversion_principle/build/CMakeFiles/MyProject.dir
+C:/work/study/g++/cmake+dependency_inversion_principle/build/CMakeFiles/edit_cache.dir
+C:/work/study/g++/cmake+dependency_inversion_principle/build/CMakeFiles/rebuild_cache.dir

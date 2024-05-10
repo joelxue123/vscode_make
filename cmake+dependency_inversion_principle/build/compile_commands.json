@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/work/study/g++/cmake+dependency_inversion_principle/build",
+  "command": "C:/MinGW/bin/g++.exe   -g -std=gnu++11 -o CMakeFiles/MyProject.dir/main.cpp.obj -c C:/work/study/g++/cmake+dependency_inversion_principle/main.cpp",
+  "file": "C:/work/study/g++/cmake+dependency_inversion_principle/main.cpp",
+  "output": "CMakeFiles/MyProject.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/work/study/g++/cmake+dependency_inversion_principle/build",
+  "command": "C:/MinGW/bin/g++.exe   -g -std=gnu++11 -o CMakeFiles/MyProject.dir/dependency_inversion_principle.cpp.obj -c C:/work/study/g++/cmake+dependency_inversion_principle/dependency_inversion_principle.cpp",
+  "file": "C:/work/study/g++/cmake+dependency_inversion_principle/dependency_inversion_principle.cpp",
+  "output": "CMakeFiles/MyProject.dir/dependency_inversion_principle.cpp.obj"
+}
+]

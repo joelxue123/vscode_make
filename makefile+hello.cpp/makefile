@@ -11,8 +11,10 @@ SRCS = main.cpp
 # 定义目标文件，即编译后的对象文件
 OBJS = $(SRCS:.cpp=.o)# 默认目标all: $(TARGET)
 
+
 # 编译目标文件
 $(TARGET): $(OBJS)
+	@echo "OBJS = $(OBJS)"
 	$(CXX) $(CXXFLAGS) -o $@ $<
 
 # 清理编译生成的文件
